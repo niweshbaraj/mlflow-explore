@@ -1,6 +1,19 @@
 # Welcome to the Code Repository for MLFlow Exploration
 Files created for exploring/testing mlflow
 
+## What is MLflow?
+
+MLflow is an open source platform for developing models and generative AI applications. It has the following primary components:
+
+- **Tracking**: Allows you to track experiments to record and compare parameters and results.
+- Models: Allow you to manage and deploy models from various ML libraries to various model serving and inference platforms.
+- **Model Registry**: Allows you to manage the model deployment process from staging to production, with model versioning and annotation capabilities.
+- AI agent evaluation and tracing: Allows you to develop high-quality AI agents by helping you compare, evaluate, and troubleshoot agents.
+  
+MLflow supports Java, Python, R, and REST APIs.
+
+
+
 ## Running MLflow [https://mlflow.org/docs/latest/ml/tracking/quickstart]
 
 ### 1. Get MLflow - Installing MLFlow Library
