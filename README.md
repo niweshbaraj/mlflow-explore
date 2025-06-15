@@ -162,4 +162,14 @@ Clicking on the name of the model will take you to the Logged Model page, with d
 4. Writing the parameter names by hand in a complex sklearn pipeline or column transformer object with multiple sub-parameters.
 
 
+To install the mlflow conda environment in the project folder, inside your terminal navigate to the project folder and then run the conda command:
 
+```bash
+conda env create -f mlflow_env.yaml
+```
+
+This command will install environment with name mlflow and then you can activate the environment by using command:
+
+```bash
+conda activate mlflow
+```
